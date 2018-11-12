@@ -1,0 +1,9 @@
+README.md
+/venv/
+/.idea/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
